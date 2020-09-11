@@ -1,4 +1,9 @@
-### Hi there 👋
+### 自我介绍
+
+* 姓名：张澍
+* 邮箱：zoew1942spe@live.com
+* 兴趣：篮球
+* 方向：Java后台
 
 <!--
 **25Lucifer/25Lucifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
